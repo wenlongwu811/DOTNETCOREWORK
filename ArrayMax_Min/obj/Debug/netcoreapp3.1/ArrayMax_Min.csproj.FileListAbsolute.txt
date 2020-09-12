@@ -1,0 +1,12 @@
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\obj\Debug\netcoreapp3.1\ArrayMax_Min.AssemblyInfoInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\obj\Debug\netcoreapp3.1\ArrayMax_Min.AssemblyInfo.cs
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\obj\Debug\netcoreapp3.1\ArrayMax_Min.csproj.CoreCompileInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\bin\Debug\netcoreapp3.1\ArrayMax_Min.exe
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\bin\Debug\netcoreapp3.1\ArrayMax_Min.deps.json
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\bin\Debug\netcoreapp3.1\ArrayMax_Min.runtimeconfig.json
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\bin\Debug\netcoreapp3.1\ArrayMax_Min.runtimeconfig.dev.json
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\bin\Debug\netcoreapp3.1\ArrayMax_Min.dll
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\bin\Debug\netcoreapp3.1\ArrayMax_Min.pdb
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\obj\Debug\netcoreapp3.1\ArrayMax_Min.dll
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\obj\Debug\netcoreapp3.1\ArrayMax_Min.pdb
+C:\Users\吴文龙\source\repos\git_repo\ArrayMax_Min\obj\Debug\netcoreapp3.1\ArrayMax_Min.genruntimeconfig.cache
