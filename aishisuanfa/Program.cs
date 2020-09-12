@@ -18,9 +18,9 @@ namespace aishisuanfa
             {
                 if (!is_prime[i]) { continue; }
                 list.Add(i);
-                for (int j = 2*i; j < n; j+=i)
+                for (int j = 2*i; j < n+1; j+=i)
                 {
-                    is_prime[i] = false;
+                    is_prime[j] = false;
                 }
             }
             return list;

@@ -1,0 +1,13 @@
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\bin\Debug\netcoreapp3.1\PuLiGeSi.exe
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\bin\Debug\netcoreapp3.1\PuLiGeSi.deps.json
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\bin\Debug\netcoreapp3.1\PuLiGeSi.runtimeconfig.json
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\bin\Debug\netcoreapp3.1\PuLiGeSi.runtimeconfig.dev.json
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\bin\Debug\netcoreapp3.1\PuLiGeSi.dll
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\bin\Debug\netcoreapp3.1\PuLiGeSi.pdb
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\obj\Debug\netcoreapp3.1\PuLiGeSi.csprojAssemblyReference.cache
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\obj\Debug\netcoreapp3.1\PuLiGeSi.AssemblyInfoInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\obj\Debug\netcoreapp3.1\PuLiGeSi.AssemblyInfo.cs
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\obj\Debug\netcoreapp3.1\PuLiGeSi.csproj.CoreCompileInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\obj\Debug\netcoreapp3.1\PuLiGeSi.dll
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\obj\Debug\netcoreapp3.1\PuLiGeSi.pdb
+C:\Users\吴文龙\source\repos\git_repo\PuLiGeSi\obj\Debug\netcoreapp3.1\PuLiGeSi.genruntimeconfig.cache

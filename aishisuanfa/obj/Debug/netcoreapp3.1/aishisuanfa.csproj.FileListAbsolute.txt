@@ -1,0 +1,13 @@
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\bin\Debug\netcoreapp3.1\aishisuanfa.exe
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\bin\Debug\netcoreapp3.1\aishisuanfa.deps.json
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\bin\Debug\netcoreapp3.1\aishisuanfa.runtimeconfig.json
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\bin\Debug\netcoreapp3.1\aishisuanfa.runtimeconfig.dev.json
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\bin\Debug\netcoreapp3.1\aishisuanfa.dll
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\bin\Debug\netcoreapp3.1\aishisuanfa.pdb
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\obj\Debug\netcoreapp3.1\aishisuanfa.csprojAssemblyReference.cache
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\obj\Debug\netcoreapp3.1\aishisuanfa.AssemblyInfoInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\obj\Debug\netcoreapp3.1\aishisuanfa.AssemblyInfo.cs
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\obj\Debug\netcoreapp3.1\aishisuanfa.csproj.CoreCompileInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\obj\Debug\netcoreapp3.1\aishisuanfa.dll
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\obj\Debug\netcoreapp3.1\aishisuanfa.pdb
+C:\Users\吴文龙\source\repos\git_repo\aishisuanfa\obj\Debug\netcoreapp3.1\aishisuanfa.genruntimeconfig.cache
