@@ -11,6 +11,12 @@ namespace Figure
         public int Side1 { get => side1; set => side1 = value; }
         public int Side2 { get => side2; set => side2 = value; }
         public int Side3 { get => side3; set => side3 = value; }
+        public Triangle(int side1,int side2,int side3)
+        {
+            this.side1 = side1;
+            this.side2 = side2;
+            this.side3 = side3;
+        }
         public override double Area()
         {
             int p = (side1 + side2 + side3) / 2;
