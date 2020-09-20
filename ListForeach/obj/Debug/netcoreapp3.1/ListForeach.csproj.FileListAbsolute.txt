@@ -1,0 +1,13 @@
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\bin\Debug\netcoreapp3.1\ListForeach.exe
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\bin\Debug\netcoreapp3.1\ListForeach.deps.json
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\bin\Debug\netcoreapp3.1\ListForeach.runtimeconfig.json
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\bin\Debug\netcoreapp3.1\ListForeach.runtimeconfig.dev.json
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\bin\Debug\netcoreapp3.1\ListForeach.dll
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\bin\Debug\netcoreapp3.1\ListForeach.pdb
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\obj\Debug\netcoreapp3.1\ListForeach.csprojAssemblyReference.cache
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\obj\Debug\netcoreapp3.1\ListForeach.AssemblyInfoInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\obj\Debug\netcoreapp3.1\ListForeach.AssemblyInfo.cs
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\obj\Debug\netcoreapp3.1\ListForeach.csproj.CoreCompileInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\obj\Debug\netcoreapp3.1\ListForeach.dll
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\obj\Debug\netcoreapp3.1\ListForeach.pdb
+C:\Users\吴文龙\source\repos\git_repo\ListForeach\obj\Debug\netcoreapp3.1\ListForeach.genruntimeconfig.cache
