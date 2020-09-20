@@ -1,2 +1,1 @@
-# DOTNETCOREWORK
-consoleapp1这个程序是无用程序，与作业无关。
+作业说明：在figure里面放的是课题要求的1,2；
