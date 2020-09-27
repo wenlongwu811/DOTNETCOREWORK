@@ -35,7 +35,6 @@ namespace Shopping
         {
             return HashCode.Combine(Name);
         }
-
         public Is_Equal(string name, double price, int num) : base(name, price, num) { }
     }
 }

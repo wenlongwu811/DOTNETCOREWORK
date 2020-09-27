@@ -20,9 +20,19 @@ namespace Shopping
 
         internal List<OrderDetails> OrderDetails { get => orderDetails; set => orderDetails = value; }
         public int SumorderID { get => sumorderID; set => sumorderID = value; }
+        public override string ToString()
+        {
+            if (orderDetails.Count == 0)
+	        {
+                throw new ArgumentOutOfRangeException("订单里面为空。");
+	        }
+            else foreach (var item in orderDetails)
+	        {
+                return Console.WriteLine(item) ;
+	        }
+        }
 
-        
-        
+
     }
     class Is_Order : Order
     {
@@ -38,5 +48,6 @@ namespace Shopping
         }
         public Is_Order(int sumdoder) :base(sumdoder)
         { }
+
     }
 }
