@@ -1,0 +1,11 @@
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe.config
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\bin\Debug\OrderSystem.pdb
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csprojAssemblyReference.cache
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\obj\Debug\OrderSystem.Properties.Resources.resources
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.GenerateResource.cache
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\obj\Debug\OrderSystem.exe
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\obj\Debug\OrderSystem.pdb
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\obj\Debug\OrderSystem.Form1.resources
+C:\Users\吴文龙\source\repos\git_repo\week4\OrderSystem\OrderSystem\obj\Debug\OrderSystem.Form2.resources
