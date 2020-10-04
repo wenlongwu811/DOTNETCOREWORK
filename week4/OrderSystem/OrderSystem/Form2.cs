@@ -50,12 +50,10 @@ namespace OrderSystem
             Gra_txt.DataBindings.Add("Text", this, "Opt_gra");
             Man_txt.DataBindings.Add("Text", this, "Opt_man");
         }
-        public event EventHandler AfterChange;
-       // public event EventHandler AfterChangeCommodity;
+       // public event EventHandler AfterChange;
         protected override void OnClosing(CancelEventArgs e)
         {
-            AfterChange(orderDetails, EventArgs.Empty);
-           // AfterChangeCommodity(comm, EventArgs.Empty);
+           // AfterChange(orderDetails, EventArgs.Empty);
             base.OnClosing(e);
         }
 
