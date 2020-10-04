@@ -62,7 +62,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 27;
-            this.dataGridView1.Size = new System.Drawing.Size(235, 336);
+            this.dataGridView1.Size = new System.Drawing.Size(307, 396);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
@@ -90,20 +90,20 @@
             this.Column5,
             this.Column6,
             this.Column7});
-            this.dataGridView2.Location = new System.Drawing.Point(-37, 0);
+            this.dataGridView2.Location = new System.Drawing.Point(3, 0);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowHeadersWidth = 51;
             this.dataGridView2.RowTemplate.Height = 27;
-            this.dataGridView2.Size = new System.Drawing.Size(701, 336);
+            this.dataGridView2.Size = new System.Drawing.Size(863, 393);
             this.dataGridView2.TabIndex = 1;
             this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
             // 
             // AddOrder_btn
             // 
             this.AddOrder_btn.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.AddOrder_btn.Location = new System.Drawing.Point(17, 354);
+            this.AddOrder_btn.Location = new System.Drawing.Point(23, 399);
             this.AddOrder_btn.Name = "AddOrder_btn";
-            this.AddOrder_btn.Size = new System.Drawing.Size(104, 23);
+            this.AddOrder_btn.Size = new System.Drawing.Size(108, 33);
             this.AddOrder_btn.TabIndex = 5;
             this.AddOrder_btn.Text = "添加订单";
             this.AddOrder_btn.UseVisualStyleBackColor = false;
@@ -128,15 +128,15 @@
             this.splitContainer1.Panel2.Controls.Add(this.AddOrder_btn);
             this.splitContainer1.Panel2.Controls.Add(this.dataGridView2);
             this.splitContainer1.Panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.splitContainer1_Panel2_Paint);
-            this.splitContainer1.Size = new System.Drawing.Size(767, 426);
-            this.splitContainer1.SplitterDistance = 193;
+            this.splitContainer1.Size = new System.Drawing.Size(1052, 540);
+            this.splitContainer1.SplitterDistance = 314;
             this.splitContainer1.TabIndex = 14;
             // 
             // Del_Order_txt
             // 
-            this.Del_Order_txt.Location = new System.Drawing.Point(437, 354);
+            this.Del_Order_txt.Location = new System.Drawing.Point(598, 399);
             this.Del_Order_txt.Name = "Del_Order_txt";
-            this.Del_Order_txt.Size = new System.Drawing.Size(75, 23);
+            this.Del_Order_txt.Size = new System.Drawing.Size(99, 39);
             this.Del_Order_txt.TabIndex = 16;
             this.Del_Order_txt.Text = "删除订单";
             this.Del_Order_txt.UseVisualStyleBackColor = true;
@@ -145,7 +145,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(434, 401);
+            this.label1.Location = new System.Drawing.Point(620, 475);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(67, 15);
             this.label1.TabIndex = 15;
@@ -153,7 +153,7 @@
             // 
             // Sel_txt
             // 
-            this.Sel_txt.Location = new System.Drawing.Point(297, 398);
+            this.Sel_txt.Location = new System.Drawing.Point(480, 471);
             this.Sel_txt.Name = "Sel_txt";
             this.Sel_txt.Size = new System.Drawing.Size(100, 25);
             this.Sel_txt.TabIndex = 14;
@@ -162,9 +162,9 @@
             // ChangeCommodity_btn
             // 
             this.ChangeCommodity_btn.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ChangeCommodity_btn.Location = new System.Drawing.Point(17, 400);
+            this.ChangeCommodity_btn.Location = new System.Drawing.Point(23, 469);
             this.ChangeCommodity_btn.Name = "ChangeCommodity_btn";
-            this.ChangeCommodity_btn.Size = new System.Drawing.Size(108, 23);
+            this.ChangeCommodity_btn.Size = new System.Drawing.Size(108, 27);
             this.ChangeCommodity_btn.TabIndex = 2;
             this.ChangeCommodity_btn.Text = "点购商品";
             this.ChangeCommodity_btn.UseVisualStyleBackColor = false;
@@ -175,6 +175,7 @@
             this.Column3.HeaderText = "UserID";
             this.Column3.MinimumWidth = 6;
             this.Column3.Name = "Column3";
+            this.Column3.Visible = false;
             this.Column3.Width = 125;
             // 
             // Column4
@@ -209,7 +210,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1348, 564);
             this.Controls.Add(this.splitContainer1);
             this.Name = "Form1";
             this.Text = "Form1";
