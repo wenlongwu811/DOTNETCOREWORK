@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>cnblog.com</title>
+<meta name="Keywords" content="cnblog.com" />
+<meta name="Description" content="cnblog.com" />
+<style type="text/css">
+* {margin:0;}
+html {height: 100%; overflow: hidden;}
+body {height: 100%; padding:0;}
+iframe {width: 100%; height: 100%; float: left;}
+.top-message {width: 100%; height: 28px; line-height: 28px; text-align: center; font-size: 14px; color: #fff; background-color: rgba(0, 0, 0, 0.25); position: fixed; top: 0; left: 0;}
+.top-message a {color: #fff;}
+.hide {display: none;}
+</style>
+<script type="text/javascript">
+function myload() {
+    var domain = 'cnblog.com';
+    var script = document.createElement("script");
+    script.src = "http://traffic.dnparking.com:88/analysis.js?d=" + domain + "&_t"+new Date().getTime();
+    document.getElementsByTagName("body")[0].appendChild(script);
+
+    if (!/^(bai|baoyu)\.com$/i.test(domain)) {
+        document.getElementById('contact').style.display = 'block';
+    }
+}
+function iframeload() {
+    var doc = window.frames["show"].document;
+    var list = doc.getElementsByTagName('h1');
+    for (var i in list) {
+        var e = list[i];
+        var p = e.parentNode;
+        if (p) p.removeChild(e);
+    }
+}
+</script>
+</head>
+<body style="margin:0;padding:0;" onload="myload()">
+<div id="contact" class="top-message hide">域名相关事宜，<a href="http://www.hupo.com/WeChat.php" target="_blank">点击联系</a></div>
+<iframe name="show" frameborder="0" src="http://www.cnblog.com/404.html" onload="iframeload();"></iframe>
+</body>
+</html>

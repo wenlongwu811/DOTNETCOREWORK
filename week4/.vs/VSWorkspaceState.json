@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CayleyTree",
     "\\CayleyTree\\obj",
+    "\\OrderSystem",
     "\\OrderSystem\\OrderSystem"
   ],
-  "SelectedNode": "\\CayleyTree\\CayleyTree.sln",
+  "SelectedNode": "\\OrderSystem\\OrderSystem\\OrderSystem.sln",
   "PreviewInSolutionExplorer": false
 }

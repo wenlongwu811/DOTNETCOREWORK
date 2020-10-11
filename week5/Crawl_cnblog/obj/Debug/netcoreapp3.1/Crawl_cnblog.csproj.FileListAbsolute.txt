@@ -1,0 +1,13 @@
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\bin\Debug\netcoreapp3.1\Crawl_cnblog.exe
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\bin\Debug\netcoreapp3.1\Crawl_cnblog.deps.json
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\bin\Debug\netcoreapp3.1\Crawl_cnblog.runtimeconfig.json
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\bin\Debug\netcoreapp3.1\Crawl_cnblog.runtimeconfig.dev.json
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\bin\Debug\netcoreapp3.1\Crawl_cnblog.dll
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\bin\Debug\netcoreapp3.1\Crawl_cnblog.pdb
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\obj\Debug\netcoreapp3.1\Crawl_cnblog.csprojAssemblyReference.cache
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\obj\Debug\netcoreapp3.1\Crawl_cnblog.AssemblyInfoInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\obj\Debug\netcoreapp3.1\Crawl_cnblog.AssemblyInfo.cs
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\obj\Debug\netcoreapp3.1\Crawl_cnblog.csproj.CoreCompileInputs.cache
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\obj\Debug\netcoreapp3.1\Crawl_cnblog.dll
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\obj\Debug\netcoreapp3.1\Crawl_cnblog.pdb
+C:\Users\吴文龙\source\repos\git_repo\week5\Crawl_cnblog\obj\Debug\netcoreapp3.1\Crawl_cnblog.genruntimeconfig.cache
